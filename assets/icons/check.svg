@@ -1,0 +1,4 @@
+<svg id="Icon_Check" data-name="Icon Check" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="Background" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="#4cd964"/>
+  <path id="Icon_Check-2" data-name="Icon Check" d="M-.1,4.611,1.015,3.49l2.3,2.3L9.07.033l1.12,1.121L3.48,7.863,3.416,7.8l-.166.166Z" transform="translate(5 6)" fill="#fff"/>
+</svg>

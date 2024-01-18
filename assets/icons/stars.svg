@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.062" height="10" viewBox="0 0 54.062 10">
+  <g id="Stars" transform="translate(-0.964)">
+    <path id="Star_Icon" data-name="Star Icon" d="M3.068,6.085,0,3.956l3.736.027L5,0,6.379,4l3.683.027L7.087,6.043,8.4,9.782l-.04-.027.013.039L5,7.428,1.824,10Z" transform="translate(44.964)" fill="#c8c7cc"/>
+    <path id="Star_Icon-2" data-name="Star Icon" d="M3.068,6.085,0,3.956l3.736.027L5,0,6.379,4l3.683.027L7.087,6.043,8.4,9.782l-.04-.027.013.039L5,7.428,1.824,10Z" transform="translate(33.964)" fill="#ff9500"/>
+    <path id="Star_Icon-3" data-name="Star Icon" d="M3.068,6.085,0,3.956l3.736.027L5,0,6.379,4l3.683.027L7.087,6.043,8.4,9.782l-.04-.027.013.039L5,7.428,1.824,10Z" transform="translate(22.964)" fill="#ff9500"/>
+    <path id="Star_Icon-4" data-name="Star Icon" d="M3.068,6.085,0,3.956l3.736.027L5,0,6.379,4l3.683.027L7.087,6.043,8.4,9.782l-.04-.027.013.039L5,7.428,1.824,10Z" transform="translate(11.964)" fill="#ff9500"/>
+    <path id="Star_Icon-5" data-name="Star Icon" d="M3.068,6.085,0,3.956l3.736.027L5,0,6.379,4l3.683.027L7.087,6.043,8.4,9.782l-.04-.027.013.039L5,7.428,1.824,10Z" transform="translate(0.964)" fill="#ff9500"/>
+  </g>
+</svg>
